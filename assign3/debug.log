@@ -1,0 +1,31 @@
+[7420:19956:0314/234548.118:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom "--crashes-directory=C:\Users\HP\AppData\Local\Temp\Atom Crashes" --v=1]
+[7420:19956:0314/234548.126:VERBOSE1:crash_service.cc(142)] window handle is 0000000000B70B24
+[7420:19956:0314/234548.126:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\Users\HP\AppData\Local\Temp\Atom Crashes
+[7420:19956:0314/234548.126:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\HP\AppData\Local\Temp\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[7420:19956:0314/234548.126:VERBOSE1:crash_service_main.cc(94)] Ready to process crash requests
+[7420:19848:0314/234548.127:VERBOSE1:crash_service.cc(317)] client start. pid = 18212
+[7420:19848:0314/234551.075:VERBOSE1:crash_service.cc(317)] client start. pid = 19684
+[17312:17560:0314/234551.107:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom "--crashes-directory=C:\Users\HP\AppData\Local\Temp\Atom Crashes" --v=1]
+[17312:17560:0314/234551.113:VERBOSE1:crash_service.cc(142)] window handle is 000000000074041A
+[17312:17560:0314/234551.113:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\Users\HP\AppData\Local\Temp\Atom Crashes
+[17312:17560:0314/234551.114:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\HP\AppData\Local\Temp\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[17312:17560:0314/234551.114:ERROR:crash_service.cc(295)] could not start dumper
+[7420:19848:0315/174621.947:VERBOSE1:crash_service.cc(317)] client start. pid = 17732
+[7420:1712:0315/174624.127:VERBOSE1:crash_service.cc(325)] client end. pid = 17732
+[7420:20144:0315/233728.965:VERBOSE1:crash_service.cc(325)] client end. pid = 19684
+[7420:20144:0315/233732.316:VERBOSE1:crash_service.cc(325)] client end. pid = 18212
+[7420:20144:0315/233733.412:VERBOSE1:crash_service.cc(346)] zero clients. exiting
+[7420:19956:0315/233733.412:VERBOSE1:crash_service.cc(486)] session ending..
+[7420:19956:0315/233733.472:VERBOSE1:crash_service.cc(491)] clients connected :3
+clients terminated :3
+dumps serviced :0
+dumps reported :0
+[7420:19956:0315/233733.472:VERBOSE1:crash_service_main.cc(99)] Session end. return code is 0
